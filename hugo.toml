@@ -1,4 +1,12 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://dopamine.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'ananke'
+title = "Dopamine's Blog"
+theme = 'paper'
+
+[params]
+
+# header social icons
+github = 'Dcyaprogrammer'
+
+
+
